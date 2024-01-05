@@ -1,8 +1,8 @@
 TITLE: 
-Author - 100% Fully Responsive One Page HTML5 Template
+Author - 100% Fully Responsive One Page HTML5 
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by vamsi Krishna 
 
 
 
